@@ -12,20 +12,23 @@ This script is unoffical and is not endorsed or supported by Viaplay in any way.
 # Public calenders that can be used directly
 
 ### Public iCal for www.viaplay.se
-
+```
 https://calendar.google.com/calendar/ical/lbocj4a4nhgda7lk74b8ptasg8cflvfg%40import.calendar.google.com/public/basic.ics
+```
 
 ### Public iCal for www.viaplay.dk
-
+```
 https://calendar.google.com/calendar/ical/4k5ovbk7pn599mq90n3v5c69butkk229%40import.calendar.google.com/public/basic.ics  
-
+```
 ### Public iCal for www.viaplay.no
-
+```
 https://calendar.google.com/calendar/ical/runfpiihtujf4e9fan5rie93mo262nkc%40import.calendar.google.com/public/basic.ics
+```
 
 ### Public iCal for www.viaplay.fi
-
+```
 https://calendar.google.com/calendar/ical/jdr7l70k0986ko61b0t3p4q2oii3e7qq%40import.calendar.google.com/public/basic.ics
+```
 
 # Add iCal too Google Calender
 
