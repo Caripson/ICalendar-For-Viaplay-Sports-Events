@@ -30,7 +30,7 @@ https://calendar.google.com/calendar/ical/i9tsnk5ciihthueequ3389mlmfg3r3up%40imp
 https://calendar.google.com/calendar/ical/um9up89o2ur98kc7kidf9pcor0suce8f%40import.calendar.google.com/public/basic.ics
 ```
 
-# Add iCal too Google Calendar
+# Add iCal to Google Calendar
 
 Go to calendar.google.com.<br>
 On the left side go to "Other Calendars" and click on the dropdown.<br>
