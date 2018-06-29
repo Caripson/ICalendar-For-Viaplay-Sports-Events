@@ -13,21 +13,21 @@ This script is unoffical and is not endorsed or supported by Viaplay in any way.
 
 ### Public iCal for www.viaplay.se
 ```
-https://calendar.google.com/calendar/ical/lbocj4a4nhgda7lk74b8ptasg8cflvfg%40import.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/l5q8r8ii5h3fvo2f7srij494jj8v5mht%40import.calendar.google.com/public/basic.ics
 ```
 
 ### Public iCal for www.viaplay.dk
 ```
-https://calendar.google.com/calendar/ical/4k5ovbk7pn599mq90n3v5c69butkk229%40import.calendar.google.com/public/basic.ics  
+https://calendar.google.com/calendar/ical/b0tdplkmkl73v9lfoprpvfvnnce5q1tk%40import.calendar.google.com/public/basic.ics
 ```
 ### Public iCal for www.viaplay.no
 ```
-https://calendar.google.com/calendar/ical/runfpiihtujf4e9fan5rie93mo262nkc%40import.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/i9tsnk5ciihthueequ3389mlmfg3r3up%40import.calendar.google.com/public/basic.ics
 ```
 
 ### Public iCal for www.viaplay.fi
 ```
-https://calendar.google.com/calendar/ical/jdr7l70k0986ko61b0t3p4q2oii3e7qq%40import.calendar.google.com/public/basic.ics
+https://calendar.google.com/calendar/ical/um9up89o2ur98kc7kidf9pcor0suce8f%40import.calendar.google.com/public/basic.ics
 ```
 
 # Add iCal too Google Calendar
