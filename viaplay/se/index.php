@@ -1,9 +1,20 @@
 <?php
 
+
+//get query for date
+$qdate = $_GET['date'];
+////--->
+
+function getStartAndEndDate($numm)
+{
+$tomorrow = date("Y-m-d", strtotime("+".$numm." day"));
+return $tomorrow;
+}
+
 header('Content-type: text/calendar; charset=utf-8');
 header('Content-Disposition: inline; filename=index.ics');
 
-$url = 'https://content.viaplay.se/pcdash-se/sport';
+$url = 'https://content.viaplay.se/pcdash-se/sport?date='.getStartAndEndDate($qdate);
 $data = file_get_contents($url);
 $objOrArray = json_decode($data, true);
 

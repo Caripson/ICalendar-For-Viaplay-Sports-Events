@@ -6,6 +6,7 @@ Fetch JSON-data with todays sports events from Viaplay and convert it to iCal-fo
 With this script can you setup a PHP-script that fetch JSON-data with todays sports events from Viaplay and convert it to iCal-format.
 Script works for Viaplay.se, Viaplay.dk, Viaplay.fi and Viaplay.no
 
+
 # Disclaimer
 This script is unoffical and is not endorsed or supported by Viaplay in any way.
 
